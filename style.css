@@ -1,3 +1,9 @@
-body {
-
+h1 {
+  color:#62B44A;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  text-align: center;
+  font-weight: normal;
 }
