@@ -20,7 +20,10 @@ a {
 }
 h1 {
   color: red;
+  text-align: center;
 }
 h2 {
   color: blue;
+  text-align: center;
+  font-weight: normal;
 }
